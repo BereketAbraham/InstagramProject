@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: InstagramProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yosie
+Implementation-Vendor-Id: edu.mum.cs
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/InstagramProject
+Created-By: Maven Integration for Eclipse
+
